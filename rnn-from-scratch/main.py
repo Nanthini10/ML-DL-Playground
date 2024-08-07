@@ -1,3 +1,6 @@
+"""
+Gemini AI added documentation, code written by me
+"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
